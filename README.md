@@ -1,7 +1,7 @@
 ### Olá eu Sou o Michel Brandão 👋
 
 
-- 🔭 Hoje eu trabalho com Analista TI
+- 🔭 Hoje eu trabalho como Analista de TI
 - 🌱 Estudando JavaScript, TypeScript
 
 <div align="center">
