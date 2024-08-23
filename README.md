@@ -1,7 +1,4 @@
-### Olá eu Sou o Michel Brandão 👋
 
-
-- 🔭 Hoje eu trabalho como Analista de TI
 
 <div align="center">
   <a href ="https://github.com/brandaomichel">
