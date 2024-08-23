@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje eu trabalho como Analista de TI
-- 🌱 Estudando Java, C#, JavaScript, Angular, Python.
 
 <div align="center">
   <a href ="https://github.com/brandaomichel">
